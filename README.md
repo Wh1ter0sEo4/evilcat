@@ -2,10 +2,6 @@
 
 TCP/UDP Flood Tool | DDoS-DoS Tool
 
-### Screenshot :
-
-![evil-cat](https://raw.githubusercontent.com/Wh1ter0sEo4/Content-Uploads/main/evilcat-pblc.png)
-
 ### Programming language :
 
 * Python3
@@ -31,5 +27,9 @@ EvilCAT will ask you for you're TARGET's IP, PORT, then it will ask you if you w
 ### ⛔️ USE IT AT YOUR OWN RISK.
 
 I'm not responsible for anything illegal you do using EviLCaT.
+
+### Screenshot :
+
+![evil-cat](https://raw.githubusercontent.com/Wh1ter0sEo4/Content-Uploads/main/evilcat-pblc.png
 
 Made with ❤️ by me.
